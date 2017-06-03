@@ -428,8 +428,7 @@ ol.type li a:hover {
 	max-width: 100%;
 }
 .twocolumn-img {
-	padding: 25px;
-		background: #fff;
+	padding: 0;
 }
 /* Other Works Section */
 #other-works {
